@@ -13,3 +13,9 @@ with col2:
     Hi, I am Adam! I am a Python programmer student. I graduated from University of Michigan-Dearborn in 2020 with a BSME in Mechanical Engineering.
     """
     st.info(content)
+
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
