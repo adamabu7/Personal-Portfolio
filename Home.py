@@ -11,7 +11,9 @@ with col1:
 with col2:
     st.title("Adam Abu-Shtayyah")
     content = """
-    Hi, I am Adam! I am a Python programmer student. I graduated from University of Michigan-Dearborn in 2020 with a BSME in Mechanical Engineering.
+    Hi, my name is Adam! I currently work in ADAS Calibration while inspiring to become a python programmer.
+    I graduated from University of Michigan-Dearborn in 2020 with a BSME in Mechanical Engineering. 
+    I love to spend time with my family along with play soccer and video games in my free time.
     """
     st.info(content)
 
